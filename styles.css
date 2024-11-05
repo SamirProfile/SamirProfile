@@ -22,7 +22,7 @@
     opacity: 0.7;
 }
 body{
-    background-image: linear-gradient(to right, white, gray);
+    background-image: linear-gradient(to right, gray, white, gray);
     padding: 20px;   
 }
 div{
